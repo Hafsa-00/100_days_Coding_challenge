@@ -1,0 +1,15 @@
+{
+  "name": "100_days_coding_challenge",
+  "version": "1.0.0",
+  "description": "coding practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}

@@ -5,5 +5,5 @@ function filterGreaterThanTen(numbers: number[]): number[] {
 }
 
 // Example: Filtering an array of numbers
-const numbers: number[] = [5, 10, 15, 20, 25];
-console.log(filterGreaterThanTen(numbers));
+const numbeR: number[] = [5, 10, 15, 20, 25];
+console.log(filterGreaterThanTen(numbeR));

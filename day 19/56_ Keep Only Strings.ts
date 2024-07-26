@@ -10,5 +10,5 @@ let mixedItems = [
   6.3,
   "carrot",
 ];
-let words = mixedItems.filter((item) => typeof item === "string");
-console.log(words);
+let word1 = mixedItems.filter((item) => typeof item === "string");
+console.log(word1);

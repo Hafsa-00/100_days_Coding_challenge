@@ -1,8 +1,8 @@
-const person = {
+let Person = {
     name: "Alice",
     getName: function () {
       return this.name; // Uses 'this' to refer to the object itself and return its 'name' property
     },
   };
   
-  console.log(person.getName());
+  console.log(Person.getName());

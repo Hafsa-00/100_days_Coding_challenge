@@ -1,9 +1,9 @@
-function reminder(a: number, b: number): number {
+function Reminder(a: number, b: number): number {
   return a % b;
 }
-let reminder1 = reminder(90, 30);
-let reminder2 = reminder(57, 10);
-let reminder3 = reminder(9999, 3000);
+let reminder1 = Reminder(90, 30);
+let reminder2 = Reminder(57, 10);
+let reminder3 = Reminder(9999, 3000);
 
 console.log(`1:${reminder1},
  2:${reminder2} , 

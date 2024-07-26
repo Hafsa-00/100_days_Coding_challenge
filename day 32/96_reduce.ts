@@ -4,5 +4,5 @@ function calculateSum(numbers: number[]): number {
 }
 
 // Example: Calculating the sum of an array of numbers
-const numbers: number[] = [1, 2, 3, 4, 5];
-console.log(calculateSum(numbers)); 
+const numberS: number[] = [1, 2, 3, 4, 5];
+console.log(calculateSum(numberS)); 
